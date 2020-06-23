@@ -1,0 +1,44 @@
+@media (max-width: 1000px) {
+	
+	.content { 
+		width: 50%;
+		margin-bottom: 50px;
+	}
+
+}
+
+@media (max-width: 670px) {
+	.header-list {
+		display: none;
+	}
+
+	.menubar {
+		display: block;
+	}
+	.content {
+		width: 100%;
+	}
+
+	.btn {
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
+		font-size: 24px;
+	}
+
+	.news {
+		margin-bottom: 20px;
+	}
+
+	.title-content {
+		font-size: 32px;
+	}
+
+	.txt-content {
+		font-size: 18px;
+	}
+
+	footer {
+		text-align: center;
+	}
+}
